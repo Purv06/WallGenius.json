@@ -3090,5 +3090,41 @@
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Superheroes/S26.png",
 		"name": "Superheroes 26",
 		"collections": "Superheroes"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Minimal/M53.png",
+		"name": "Minimal 53",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Minimal/M52.png",
+		"name": "Minimal 52",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Minimal/M51.png.png",
+		"name": "Minimal 51",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Animal%20%26%20Birds/AB53.png",
+		"name": "Animal & Birds 53",
+		"collections": "Animal & Birds"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Animal%20%26%20Birds/AB54.png",
+		"name": "Animal & Birds 54",
+		"collections": "Animal & Birds"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Animal%20%26%20Birds/AB55.png",
+		"name": "Animal & Birds 55",
+		"collections": "Animal & Birds"
 	}
-]
+}
