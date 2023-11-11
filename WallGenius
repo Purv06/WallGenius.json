@@ -1,4 +1,42 @@
-[
+[	
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN2.png",
+		"name": "Anime 2",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN3.png",
+		"name": "Anime 3",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN4.png",
+		"name": "Anime 4",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN5.png",
+		"name": "Anime 5",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN6.png",
+		"name": "Anime 6",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN7.png",
+		"name": "Anime 7",
+		"collections": "Anime"
+	},
+
+
 	{
 		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/3D%20Characters/C1.png",
@@ -985,42 +1023,6 @@
 		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN1.png",
 		"name": "Anime 1",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN2.png",
-		"name": "Anime 2",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN3.png",
-		"name": "Anime 3",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN4.png",
-		"name": "Anime 4",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN5.png",
-		"name": "Anime 5",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN6.png",
-		"name": "Anime 6",
-		"collections": "Anime"
-	},
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN7.png",
-		"name": "Anime 7",
 		"collections": "Anime"
 	},
 	
