@@ -1,4 +1,11 @@
 [	
+
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN1.png",
+		"name": "Anime 1",
+		"collections": "Anime"
+	},
 	{
 		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN2.png",
@@ -1013,19 +1020,6 @@
 		"name": "Animal & Birds 58",
 		"collections": "Animal & Birds"
 	},
-
-
-
-
-	{
-		"author": "Zeffi Setups",
-		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN1.png",
-		"name": "Anime 1",
-		"collections": "Anime"
-	},
-	
-
-
 
 
 
