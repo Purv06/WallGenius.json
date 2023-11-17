@@ -2,6 +2,31 @@
 
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Space/S34.png",
+		"name": "Space 34",
+		"collections": "Space"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Space/S33.png",
+		"name": "Space 33",
+		"collections": "Space"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Space/S32.png",
+		"name": "Space 32",
+		"collections": "Space"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Space/S31.png",
+		"name": "Space 31",
+		"collections": "Space"
+	},
+
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN8.png",
 		"name": "Anime 8",
 		"collections": "Anime"
