@@ -1,6 +1,13 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Superheroes/S27.jpeg",
+		"name": "Superheroes 27",
+		"collections": "Superheroes"
+	},
+
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Minimal/M74.jpeg",
 		"name": "Minimal 74",
 		"collections": "Minimal"
