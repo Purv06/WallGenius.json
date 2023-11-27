@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Nature/N63.jpeg",
+		"name": "Nature 63",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Animal%20%26%20Birds/AB59.jpeg",
 		"name": "Animal & Birds 59",
 		"collections": "Animal & Birds"
