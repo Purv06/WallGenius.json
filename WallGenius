@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Anime/AN9.jpeg",
+		"name": "Anime 9",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/Purv06/WallGenius.json/main/Nature/N63.jpeg",
 		"name": "Nature 63",
 		"collections": "Nature"
